@@ -1,7 +1,5 @@
 # LABFAT
 
-# LABFAT
-
 LABFAT is a Python-based repository designed to [describe the purpose or functionality of the repository]. This project aims to [briefly mention the goals or objectives of the repository].
 
 ## Table of Contents
